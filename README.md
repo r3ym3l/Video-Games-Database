@@ -8,7 +8,7 @@ To run it, you will need to navigate to the project folder through the command l
 
 It also requires the most up to date version of the JDK (JDK 17/class file version 61.0), or else the class file will not be able to run the more up to date version.
 
-# ER Model
+# ER Model:
 ![image](https://github.com/r3ym3l/Video-Games-Database/blob/main/ER_model.png)
 
 # Data Permitted for use:
